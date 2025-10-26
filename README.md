@@ -17,17 +17,17 @@ Key business metrics like total sales, orders, and high-performing products
 
 ## Advanced SQL Analytics
 Applied advanced SQL techniques such as:
-CTEs (Common Table Expressions)
-Window Functions for ranking and time-based analysis
+CTEs (Common Table Expressions),
+Window Functions for ranking and time-based analysis,
 Subqueries for dynamic segmentation and benchmarking
 These were used to evaluate year-over-year performance, benchmark product categories, and segment customers by loyalty (VIP, regular, new), leading to detailed customer and product performance reports.
 
 ## Skills and Tools
-SQL (for ETL, transformation, and analytics)
-Data Warehousing Concepts (Bronze–Silver–Gold architecture)
-Data Cleaning and Normalisation
-Exploratory Data Analysis (EDA)
+SQL (for ETL, transformation, and analytics),
+Data Warehousing Concepts (Bronze–Silver–Gold architecture),
+Data Cleaning and Normalisation,
+Exploratory Data Analysis (EDA),
 Advanced SQL Techniques: CTEs, window functions, subqueries
 
 ## Outcome
-This project demonstrates how SQL can be used not just for querying data but for building an entire data analysis workflow — from ingestion to insight generation, enabling data-driven business decisions.
+This project demonstrates how SQL can be used not just for querying data but for building an entire data analysis workflow, enabling data-driven business decisions.
